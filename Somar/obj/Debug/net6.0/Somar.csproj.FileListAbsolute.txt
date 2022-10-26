@@ -1,0 +1,15 @@
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\bin\Debug\net6.0\Somar.exe
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\bin\Debug\net6.0\Somar.deps.json
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\bin\Debug\net6.0\Somar.runtimeconfig.json
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\bin\Debug\net6.0\Somar.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\bin\Debug\net6.0\Somar.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.csproj.AssemblyReference.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.AssemblyInfo.cs
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\refint\Somar.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\Somar.genruntimeconfig.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Somar\obj\Debug\net6.0\ref\Somar.dll

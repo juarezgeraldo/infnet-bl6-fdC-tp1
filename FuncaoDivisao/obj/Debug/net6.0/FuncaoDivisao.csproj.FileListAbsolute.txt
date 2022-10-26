@@ -1,0 +1,12 @@
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\bin\Debug\net6.0\FuncaoDivisao.deps.json
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\bin\Debug\net6.0\FuncaoDivisao.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\bin\Debug\net6.0\FuncaoDivisao.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\FuncaoDivisao.csproj.AssemblyReference.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\FuncaoDivisao.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\FuncaoDivisao.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\FuncaoDivisao.AssemblyInfo.cs
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\FuncaoDivisao.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\FuncaoDivisao.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\refint\FuncaoDivisao.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\FuncaoDivisao.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoDivisao\obj\Debug\net6.0\ref\FuncaoDivisao.dll

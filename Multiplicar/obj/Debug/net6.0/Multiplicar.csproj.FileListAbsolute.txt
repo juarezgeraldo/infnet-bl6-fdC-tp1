@@ -1,0 +1,15 @@
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\bin\Debug\net6.0\Multiplicar.exe
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\bin\Debug\net6.0\Multiplicar.deps.json
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\bin\Debug\net6.0\Multiplicar.runtimeconfig.json
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\bin\Debug\net6.0\Multiplicar.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\bin\Debug\net6.0\Multiplicar.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.csproj.AssemblyReference.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.AssemblyInfo.cs
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\refint\Multiplicar.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\Multiplicar.genruntimeconfig.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Multiplicar\obj\Debug\net6.0\ref\Multiplicar.dll

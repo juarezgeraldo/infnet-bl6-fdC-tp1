@@ -1,0 +1,148 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "FuncaoDivisao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FuncaoDivisao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuncaoDivisao.dll": {}
+        }
+      },
+      "FuncaoMultiplicacao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FuncaoMultiplicacao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuncaoMultiplicacao.dll": {}
+        }
+      },
+      "FuncaoSoma/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FuncaoSoma.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuncaoSoma.dll": {}
+        }
+      },
+      "FuncaoSubtracao/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/FuncaoSubtracao.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FuncaoSubtracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FuncaoDivisao/1.0.0": {
+      "type": "project",
+      "path": "../FuncaoDivisao/FuncaoDivisao.csproj",
+      "msbuildProject": "../FuncaoDivisao/FuncaoDivisao.csproj"
+    },
+    "FuncaoMultiplicacao/1.0.0": {
+      "type": "project",
+      "path": "../FuncaoMultiplicacao/FuncaoMultiplicacao.csproj",
+      "msbuildProject": "../FuncaoMultiplicacao/FuncaoMultiplicacao.csproj"
+    },
+    "FuncaoSoma/1.0.0": {
+      "type": "project",
+      "path": "../Soma/FuncaoSoma.csproj",
+      "msbuildProject": "../Soma/FuncaoSoma.csproj"
+    },
+    "FuncaoSubtracao/1.0.0": {
+      "type": "project",
+      "path": "../FuncaoSubtracao/FuncaoSubtracao.csproj",
+      "msbuildProject": "../FuncaoSubtracao/FuncaoSubtracao.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "FuncaoDivisao >= 1.0.0",
+      "FuncaoMultiplicacao >= 1.0.0",
+      "FuncaoSoma >= 1.0.0",
+      "FuncaoSubtracao >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\juare\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1.csproj",
+      "projectName": "infnet-bl6-fdC-tp1",
+      "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1.csproj",
+      "packagesPath": "C:\\Users\\juare\\.nuget\\packages\\",
+      "outputPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\juare\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoDivisao\\FuncaoDivisao.csproj": {
+              "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoDivisao\\FuncaoDivisao.csproj"
+            },
+            "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoMultiplicacao\\FuncaoMultiplicacao.csproj": {
+              "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoMultiplicacao\\FuncaoMultiplicacao.csproj"
+            },
+            "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSubtracao\\FuncaoSubtracao.csproj": {
+              "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSubtracao\\FuncaoSubtracao.csproj"
+            },
+            "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\FuncaoSoma.csproj": {
+              "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\FuncaoSoma.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

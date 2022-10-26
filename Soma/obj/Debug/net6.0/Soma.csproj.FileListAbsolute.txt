@@ -1,0 +1,12 @@
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\bin\Debug\net6.0\Soma.deps.json
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\bin\Debug\net6.0\Soma.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\bin\Debug\net6.0\Soma.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\Soma.csproj.AssemblyReference.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\Soma.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\Soma.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\Soma.AssemblyInfo.cs
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\Soma.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\Soma.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\refint\Soma.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\Soma.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\Soma\obj\Debug\net6.0\ref\Soma.dll

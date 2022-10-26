@@ -1,0 +1,12 @@
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\bin\Debug\net6.0\FuncaoMultiplicacao.deps.json
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\bin\Debug\net6.0\FuncaoMultiplicacao.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\bin\Debug\net6.0\FuncaoMultiplicacao.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\FuncaoMultiplicacao.csproj.AssemblyReference.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\FuncaoMultiplicacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\FuncaoMultiplicacao.AssemblyInfoInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\FuncaoMultiplicacao.AssemblyInfo.cs
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\FuncaoMultiplicacao.csproj.CoreCompileInputs.cache
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\FuncaoMultiplicacao.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\refint\FuncaoMultiplicacao.dll
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\FuncaoMultiplicacao.pdb
+D:\OneDrive\Projetos\Graduacao\Bloco6\Fundamentos-desenvolvimento-c#\TPs\TP1\infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1\FuncaoMultiplicacao\obj\Debug\net6.0\ref\FuncaoMultiplicacao.dll

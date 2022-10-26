@@ -1,0 +1,69 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "infnet-bl6-fdC-tp1/1.0.0": {
+        "dependencies": {
+          "FuncaoDivisao": "1.0.0",
+          "FuncaoMultiplicacao": "1.0.0",
+          "FuncaoSoma": "1.0.0",
+          "FuncaoSubtracao": "1.0.0"
+        },
+        "runtime": {
+          "infnet-bl6-fdC-tp1.dll": {}
+        }
+      },
+      "FuncaoDivisao/1.0.0": {
+        "runtime": {
+          "FuncaoDivisao.dll": {}
+        }
+      },
+      "FuncaoMultiplicacao/1.0.0": {
+        "runtime": {
+          "FuncaoMultiplicacao.dll": {}
+        }
+      },
+      "FuncaoSoma/1.0.0": {
+        "runtime": {
+          "FuncaoSoma.dll": {}
+        }
+      },
+      "FuncaoSubtracao/1.0.0": {
+        "runtime": {
+          "FuncaoSubtracao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "infnet-bl6-fdC-tp1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuncaoDivisao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuncaoMultiplicacao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuncaoSoma/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FuncaoSubtracao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
