@@ -11,8 +11,8 @@
   <ItemGroup>
     <ProjectReference Include="..\FuncaoDivisao\FuncaoDivisao.csproj" />
     <ProjectReference Include="..\FuncaoMultiplicacao\FuncaoMultiplicacao.csproj" />
+    <ProjectReference Include="..\FuncaoSoma\FuncaoSoma.csproj" />
     <ProjectReference Include="..\FuncaoSubtracao\FuncaoSubtracao.csproj" />
-    <ProjectReference Include="..\Soma\FuncaoSoma.csproj" />
   </ItemGroup>
 
 </Project>

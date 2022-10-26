@@ -5,13 +5,13 @@ VisualStudioVersion = 17.3.32929.385
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "infnet-bl6-fdC-tp1", "infnet-bl6-fdC-tp1\infnet-bl6-fdC-tp1.csproj", "{3A8FEA43-209B-47CF-B151-EB3EC42E4E5E}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncaoSoma", "Soma\FuncaoSoma.csproj", "{5552FEEE-5254-4EF6-A872-29FF66CA9F84}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncaoSubtracao", "FuncaoSubtracao\FuncaoSubtracao.csproj", "{6022B13C-3954-46F8-8628-242A926A42BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncaoSubtracao", "FuncaoSubtracao\FuncaoSubtracao.csproj", "{6022B13C-3954-46F8-8628-242A926A42BB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncaoMultiplicacao", "FuncaoMultiplicacao\FuncaoMultiplicacao.csproj", "{C8E62BDB-B11E-4DCF-8BD2-66E7349A6E7A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncaoMultiplicacao", "FuncaoMultiplicacao\FuncaoMultiplicacao.csproj", "{C8E62BDB-B11E-4DCF-8BD2-66E7349A6E7A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FuncaoDivisao", "FuncaoDivisao\FuncaoDivisao.csproj", "{3F2433EC-E4B2-4C1C-B641-260836E9F3FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncaoDivisao", "FuncaoDivisao\FuncaoDivisao.csproj", "{3F2433EC-E4B2-4C1C-B641-260836E9F3FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FuncaoSoma", "FuncaoSoma\FuncaoSoma.csproj", "{938B14CA-5581-490A-BFB3-6179E935589D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,6 @@ Global
 		{3A8FEA43-209B-47CF-B151-EB3EC42E4E5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3A8FEA43-209B-47CF-B151-EB3EC42E4E5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3A8FEA43-209B-47CF-B151-EB3EC42E4E5E}.Release|Any CPU.Build.0 = Release|Any CPU
-		{5552FEEE-5254-4EF6-A872-29FF66CA9F84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{5552FEEE-5254-4EF6-A872-29FF66CA9F84}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{5552FEEE-5254-4EF6-A872-29FF66CA9F84}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{5552FEEE-5254-4EF6-A872-29FF66CA9F84}.Release|Any CPU.Build.0 = Release|Any CPU
 		{6022B13C-3954-46F8-8628-242A926A42BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{6022B13C-3954-46F8-8628-242A926A42BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6022B13C-3954-46F8-8628-242A926A42BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -39,6 +35,10 @@ Global
 		{3F2433EC-E4B2-4C1C-B641-260836E9F3FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F2433EC-E4B2-4C1C-B641-260836E9F3FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F2433EC-E4B2-4C1C-B641-260836E9F3FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{938B14CA-5581-490A-BFB3-6179E935589D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{938B14CA-5581-490A-BFB3-6179E935589D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{938B14CA-5581-490A-BFB3-6179E935589D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{938B14CA-5581-490A-BFB3-6179E935589D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

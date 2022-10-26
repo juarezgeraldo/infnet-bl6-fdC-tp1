@@ -30,6 +30,8 @@
             Console.WriteLine("A subtração dos números é: " + subtracao);
 
             Console.ReadKey();
+            Console.Clear();
+
 
         }
     }

@@ -30,6 +30,8 @@
             Console.WriteLine("A soma dos números é: " + soma);
 
             Console.ReadKey();
+            Console.Clear();
+
 
         }
 

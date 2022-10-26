@@ -30,6 +30,8 @@
             Console.WriteLine("A multiplicação dos números é: " + divisao);
 
             Console.ReadKey();
+            Console.Clear();
+
 
         }
     }

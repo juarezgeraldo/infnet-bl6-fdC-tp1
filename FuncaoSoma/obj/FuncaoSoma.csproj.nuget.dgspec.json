@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\Soma.csproj": {}
+    "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSoma\\FuncaoSoma.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\Soma.csproj": {
+    "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSoma\\FuncaoSoma.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\Soma.csproj",
-        "projectName": "Soma",
-        "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\Soma.csproj",
+        "projectUniqueName": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSoma\\FuncaoSoma.csproj",
+        "projectName": "FuncaoSoma",
+        "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSoma\\FuncaoSoma.csproj",
         "packagesPath": "C:\\Users\\juare\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\obj\\",
+        "outputPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSoma\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\juare\\AppData\\Roaming\\NuGet\\NuGet.Config",

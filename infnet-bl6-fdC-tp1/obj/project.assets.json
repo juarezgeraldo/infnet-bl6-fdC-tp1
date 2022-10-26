@@ -57,8 +57,8 @@
     },
     "FuncaoSoma/1.0.0": {
       "type": "project",
-      "path": "../Soma/FuncaoSoma.csproj",
-      "msbuildProject": "../Soma/FuncaoSoma.csproj"
+      "path": "../FuncaoSoma/FuncaoSoma.csproj",
+      "msbuildProject": "../FuncaoSoma/FuncaoSoma.csproj"
     },
     "FuncaoSubtracao/1.0.0": {
       "type": "project",
@@ -107,11 +107,11 @@
             "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoMultiplicacao\\FuncaoMultiplicacao.csproj": {
               "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoMultiplicacao\\FuncaoMultiplicacao.csproj"
             },
+            "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSoma\\FuncaoSoma.csproj": {
+              "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSoma\\FuncaoSoma.csproj"
+            },
             "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSubtracao\\FuncaoSubtracao.csproj": {
               "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\FuncaoSubtracao\\FuncaoSubtracao.csproj"
-            },
-            "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\FuncaoSoma.csproj": {
-              "projectPath": "D:\\OneDrive\\Projetos\\Graduacao\\Bloco6\\Fundamentos-desenvolvimento-c#\\TPs\\TP1\\infnet-bl6-fdC-tp1\\infnet-bl6-fdC-tp1\\Soma\\FuncaoSoma.csproj"
             }
           }
         }
