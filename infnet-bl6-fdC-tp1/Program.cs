@@ -1,6 +1,7 @@
 ﻿using FuncaoSoma;
 using FuncaoSubtracao;
 using FuncaoMultiplicacao;
+using FuncaoDivisao;
 
 namespace AplicacaoPrincipal
 
